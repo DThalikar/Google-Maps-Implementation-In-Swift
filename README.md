@@ -1,3 +1,2 @@
-
-#Google Maps implementation in Swift
+Google Maps implementation in Swift
 
